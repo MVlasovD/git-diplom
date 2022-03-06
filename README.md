@@ -1,5 +1,6 @@
 Vlasov Mikhail Nikolaevich
 ![photo](img/1619418175_8-phonoteka_org-p-dvoichnii-kod-fon-10)
+
 Male, 41 year, born on 16 December 1980
 
 +7 (918) 5186273 — preferred means of communication
@@ -113,9 +114,28 @@ Languages	Russian — Native
 English — B2 — Upper Intermediate
 Spanish — A1 — Basic
 Japanese — A1 — Basic
-Skills	1С: Бухгалтерия  MS Excel  MS Office  Управление финансами  Финансовое планирование  Формирование бюджета  MS PowerPoint  MS Outlook  Driving Licence B  Экономический анализ  Sales Skills  Retail  CorelDRAW  1С-Битрикс  Пользователь ПК  Работа в команде  Деловая переписка  Internet  Английский язык
+Skills	
+1С: Бухгалтерия  
+MS Excel  
+MS Office  
+Управление финансами  
+Финансовое планирование  
+Формирование бюджета  
+MS PowerPoint  
+MS Outlook  
+Driving Licence B  
+Экономический анализ  
+Sales Skills  
+Retail  
+CorelDRAW  
+1С-Битрикс  
+Пользователь ПК  
+Работа в команде  
+Деловая переписка  
+Internet  
+Английский язык
 Driving experience
-Own car
+
 Driver's license category B, C
 Additional information
 About me	•	PC Skills: Advanced user of MS Office, Specialized Banking Software Products, 1C: Accounting (Modules “Accounting”, “Fin Planning”), Microsoft Dynamics Axapta, DocsVision; 
